@@ -1,5 +1,17 @@
-# Tutorial-Tugas-4-Layout-2
-Buatlah layout menggunakan sample code berikut. Kumpulkan source code (file .dart saja) dan screenshot hasil run dalam format file zip/rar atau link GitHub
+# tugas4
 
+A new Flutter project.
 
-<img width="205" height="596" alt="image" src="https://github.com/user-attachments/assets/90f4f99e-027d-4edc-98b1-9844dbd28be9" />
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
